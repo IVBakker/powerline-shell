@@ -243,6 +243,14 @@ file. The available modes are:
   your chosen font.
 - `flat` - No separator is used between segments, giving each segment a
   rectangular appearance (and also saves space).
+  ```
+{
+  "segments": [
+...
+  ],
+  "mode": "compatible"
+}
+```
 
 ### Themes
 
